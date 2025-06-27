@@ -36,7 +36,7 @@ movie-api/
 ### 1. Clona el repositorio
 
 ```bash
-git clone https://github.com/usuario/movie-api.git
+git clone https://github.com/DIOR27/movie-api.git
 cd movie-api
 ```
 
